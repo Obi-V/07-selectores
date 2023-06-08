@@ -60,6 +60,6 @@ export class SelectorPageComponent implements OnInit {
       })
   }
 
-  onSubmit() { }
+
 
 }

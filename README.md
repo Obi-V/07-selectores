@@ -1,27 +1,33 @@
-# Selectores
+# Aplicación de Selectores de Países
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
+¡Bienvenido a la aplicación de Selectores de Países! Esta aplicación utiliza una API de países para cargar información y propiedades de diferentes países de todo el mundo. Además, implementa el concepto de lazy loading para cargar los detalles de cada país de forma diferida, optimizando así el rendimiento de la aplicación.
 
-## Development server
+## Características
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- **Exploración de países**: La aplicación permite explorar una lista de países y ver información básica, como el nombre, la bandera y la capital de cada país.
 
-## Code scaffolding
+- **Carga diferida**: Los detalles completos de cada país se cargan de forma diferida utilizando lazy loading. Esto significa que los detalles de un país se cargarán solo cuando el usuario interactúe con ese país en particular, evitando así la carga innecesaria de datos.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- **Interfaz de usuario intuitiva**: La aplicación ofrece una interfaz de usuario intuitiva y fácil de usar. Los países se presentan en una lista y se pueden seleccionar para mostrar más detalles.
 
-## Build
+- **Búsqueda de países**: La aplicación permite buscar países por su nombre o capital, lo que facilita encontrar un país específico en la lista.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- **Información detallada**: Al seleccionar un país, se muestran detalles adicionales, como la población, el idioma oficial, la moneda y el área geográfica. Estos detalles se cargan de forma diferida mediante lazy loading.
 
-## Running unit tests
+- **Optimización de rendimiento**: Al cargar los detalles de los países de forma diferida, la aplicación optimiza el rendimiento al reducir la carga inicial y permitir que los usuarios accedan a la información detallada solo cuando sea necesario.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Instalación
 
-## Running end-to-end tests
+1. Clona el repositorio: `git clone https://github.com/Obi-V/04-pipesApp.git`
+2. Navega hasta el directorio del proyecto: `cd 04-pipesApp.git`(Tu ruta)
+3. Instala las dependencias: `npm install`
+4. Inicia la aplicación: `ng serve` o `ng serve -o`(Se abre automáticamente)
+5. Abre tu navegador y visita: `http://localhost:4200`
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Uso
 
-## Further help
+Esta serie de aplicaciones son para experimentar el funcionamiento de Angular, pero recomiendo complementar con más información y videos que podreis encontrar gratis en Youtube.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Una vez que la aplicación esté en funcionamiento, puedes explorar las diferentes secciones y temas para aprender sobre Angular. Cada tema proporciona explicaciones, fragmentos de código y ejercicios para ayudarte a comprender mejor los conceptos de Angular. ¡Diviértete aprendiendo!
+
+### Texto creado con la ayuda chatGTP
