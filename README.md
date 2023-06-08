@@ -28,6 +28,8 @@
 
 Esta serie de aplicaciones son para experimentar el funcionamiento de Angular, pero recomiendo complementar con más información y videos que podreis encontrar gratis en Youtube.
 
-Una vez que la aplicación esté en funcionamiento, puedes explorar las diferentes secciones y temas para aprender sobre Angular. Cada tema proporciona explicaciones, fragmentos de código y ejercicios para ayudarte a comprender mejor los conceptos de Angular. ¡Diviértete aprendiendo!
+Una vez que la aplicación esté en funcionamiento, podrás explorar y disfrutar de los mapas interactivos proporcionados por Mapbox. Podrás agregar marcadores, trazar rutas, utilizar la geolocalización y personalizar la apariencia del mapa según tus necesidades.
+
+¡Disfruta de la potencia y flexibilidad de la API de Mapbox con esta aplicación de mapas!
 
 ### Texto creado con la ayuda chatGTP
